@@ -48,12 +48,18 @@ O site possui as seguintes páginas:
    - Implementado com o componente de **Carousel** do Bootstrap.  
    - Configurado para alternar automaticamente entre imagens dos jogos.   
 
+## Melhorias Recentes
+
+- Adicionado **footer** com links para minhas redes sociais (LinkedIn e GitHub).  
+- Melhorada a **responsividade** geral do site para diferentes tamanhos de tela.
+
+
 ## Melhorias Futuras  
 
-- Adicionar responsividade para todo o site.
 - Implementar um banco de dados para armazenar recomendações dinâmicas.  
 - Criar um sistema de avaliação de jogos.  
-- Adicionar animações para melhorar a experiência do usuário.  
+- Adicionar animações para melhorar a experiência do usuário. 
+- Adicionar melhorias ao design. 
 
 ## Entre em Contato Comigo
 
