@@ -57,8 +57,10 @@ O site possui as seguintes páginas:
 
 ## Melhorias Futuras  
 
-- Implementar um banco de dados para armazenar recomendações dinâmicas.  
-- Criar um sistema de avaliação de jogos.  
+- Deixar **100% resposivo**.
+- Fazer funcionar o sistema de login e cadastro. 
+- Criar um sistema de avaliação de jogos.
+- Criar uma página para cada usuário fazer comentários sobre os jogos e conversarem entre si.
 - Adicionar animações para melhorar a experiência do usuário. 
 - Adicionar melhorias ao design. 
 
