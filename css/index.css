@@ -149,8 +149,8 @@ section {
     text-decoration: none;
     text-transform: uppercase;
     transition: background-color 0.3s, color 0.3s;
-    max-width: 300px; /* evita que fique grande demais */
-    min-width: 200px; /* evita que fique pequeno demais */
+    max-width: 300px; 
+    min-width: 200px; 
 }
 
 .btn-main:hover {
