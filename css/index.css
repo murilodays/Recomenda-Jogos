@@ -149,6 +149,8 @@ section {
     text-decoration: none;
     text-transform: uppercase;
     transition: background-color 0.3s, color 0.3s;
+    max-width: 300px; /* evita que fique grande demais */
+    min-width: 200px; /* evita que fique pequeno demais */
 }
 
 .btn-main:hover {
@@ -243,4 +245,22 @@ body {
     .open {
         display: block;
     }
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: #000000;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+footer p {
+    padding-top: 15px;
+}
+
+.logos{
+    filter: invert();
 }
