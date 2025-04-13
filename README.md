@@ -15,19 +15,19 @@ O site possui as seguintes páginas:
 
 - **Home**: Página inicial descrevendo o site.
  
-![image](https://github.com/user-attachments/assets/dae10147-cfc2-4271-b9bb-241d62373c1e)
+![image](https://github.com/user-attachments/assets/c03b014d-dbcf-46c7-b382-8f530df1d596)
 
 - **Jogos**: Exibição de recomendações de jogos, incluindo um carrossel de imagens feito com Bootstrap.
 
-![image](https://github.com/user-attachments/assets/6e54aeeb-464b-40ee-abf1-4bca278b4779)
+![image](https://github.com/user-attachments/assets/676d007d-50a8-4cf7-bbfa-0ff995014687)
   
 - **Promoções**: Lista de ofertas e descontos de jogos.
 
-![image](https://github.com/user-attachments/assets/f9d701ea-a626-4a70-900b-3265467db178)
+![image](https://github.com/user-attachments/assets/eacdc5d7-d9ae-42f8-87e1-47f0f42a6f74)
 
 - **Sobre**: Informações sobre o projeto e sua proposta.
 
-![image](https://github.com/user-attachments/assets/94a93950-837d-4d5c-a15e-fffb25426e8a)
+![image](https://github.com/user-attachments/assets/1dc83a45-85ce-4d39-be89-ee125ec7dc67)
 
  
 - **Entrar**: Página de login para usuários cadastrados.
@@ -53,7 +53,7 @@ O site possui as seguintes páginas:
 
 - Adicionado **footer** com links para minhas redes sociais (LinkedIn e GitHub).  
 - Melhorada a **responsividade** geral do site para diferentes tamanhos de tela.
-
+- Reformulação na página de Promoções.
 
 ## Melhorias Futuras  
 
