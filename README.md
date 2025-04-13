@@ -27,7 +27,8 @@ O site possui as seguintes páginas:
 
 - **Sobre**: Informações sobre o projeto e sua proposta.
 
-![image](https://github.com/user-attachments/assets/1826dc71-d49c-4235-aaf7-bd535f6edd1e)
+![image](![image](https://github.com/user-attachments/assets/766475da-6bce-4118-9bba-9ccb6086b288)
+)
  
 - **Entrar**: Página de login para usuários cadastrados.
 
