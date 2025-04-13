@@ -23,7 +23,7 @@ O site possui as seguintes páginas:
   
 - **Promoções**: Lista de ofertas e descontos de jogos.
 
-![image](https://github.com/user-attachments/assets/eacdc5d7-d9ae-42f8-87e1-47f0f42a6f74)
+![image](https://github.com/user-attachments/assets/76621add-f148-448a-bb71-d4c92f6d73f5)
 
 - **Sobre**: Informações sobre o projeto e sua proposta.
 
