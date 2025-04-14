@@ -234,8 +234,9 @@ footer p {
 }
 
 .custom-img {
-    max-height: 450px; 
-    object-fit:cover;
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
 }
 
 .custom-caption {

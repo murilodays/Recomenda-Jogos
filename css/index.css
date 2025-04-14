@@ -115,6 +115,11 @@ body {
     padding: 0;
     background-color: #1c1c1c;
     color: #f5f5f5;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-image: url(../assets/img/ow.png);
 }
 
 section {
@@ -152,11 +157,6 @@ section {
 .btn-main:hover {
     background-color: transparent;
     color: #ff6700;;
-}
-
-body {
-    background-image: url(../assets/img/ow.png);
-    background-size: cover
 }
 
 .boas-vindas h2{
